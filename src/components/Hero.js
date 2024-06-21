@@ -6,7 +6,7 @@ import { IoIosArrowForward } from "react-icons/io";
 const Hero = () => {
   return (
     <div className="bg-gray-900 text-white h-screen w-screen flex items-center justify-center snap-start flex-shrink-0">
-      <div className="text-center">
+      <div className="text-center w-2/3">
         <h1 className="text-5xl font-bold mb-4">Portfolio</h1>
         <p className="text-xl mb-8">
           Here you can see a small showcase of my abilities

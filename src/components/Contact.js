@@ -32,9 +32,9 @@ const Contact = () => {
       id="contact"
       className="bg-gray-200 py-16 text-gray-800 snap-start w-screen h-screen flex-shrink-0"
     >
-      <div className="container mx-auto px-4 h-full flex flex-col items-center justify-center">
+      <div className="container mx-auto px-4 h-full flex flex-col items-center justify-center mt-8">
         <h2 className="text-4xl font-bold mb-4">Contact Me</h2>
-        <p className="text-lg mb-8">
+        <p className="text-lg mb-8 w-full flex items-center justify-center flex-col">
           Feel free to reach out to me via email at{" "}
           <span className="text-purple-500">nikolajlivshic@gmail.com</span>
         </p>
